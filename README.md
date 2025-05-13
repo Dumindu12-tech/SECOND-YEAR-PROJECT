@@ -1,26 +1,17 @@
-Blood Donation System
+Mobile Application for Android using Flutter and Firebase
 Overview
-Developed a robust blood donation platform using Laravel, CSS, HTML, and MySQL. This system is designed to streamline the blood donation process for donors, hospitals, and blood banks, ensuring efficient management and accessibility.
+Developed a sophisticated mobile application for Android using Flutter and Firebase, designed to seamlessly connect users with service providers. The application is built with a focus on user experience, security, and scalability.
 
-Features
-User Registration and Login         this is our group project change to add my project  read me
-
-Facilitates registration and login for donors, hospitals, and blood banks.
-Enables users to set up accounts and manage their profiles.
-Donor Functionality
-
-Donors can book appointments for blood donation.
-View and manage upcoming appointments.
-Blood Inventory Management
-
-Real-time management of blood inventory for hospitals and blood banks.
-Log donations and update blood types.
-Manage expiration dates for blood units to ensure the availability of safe blood.
-Donor Search
-
-Hospitals and blood banks can search for donors based on blood type, availability, and location.
-Facilitates quick matching of donors to recipients in need.
+Key Features
+User Registration and Login: Implemented secure and efficient user authentication using Firebase Authentication.
+Service Provider Registration and Login: Facilitated easy onboarding and secure access for service providers through Firebase Authentication.
+Service Selection and Scheduling: Provided a user-friendly interface for convenient service selection and scheduling.
+Service Provider Rating and Review: Enabled users to rate and review service providers, ensuring high-quality service and reliability.
+Onboarding Screen: Developed an interactive onboarding screen to guide new users through the app's features.
+Splash Screen: Created an engaging splash screen to enhance the initial user experience.
+Data Storage: Utilized Firebase Cloud Firestore for secure, scalable, and real-time data management.
 Technologies Used
-Backend: Laravel
-Frontend: HTML, CSS
-Database: MySQL
+Frontend & Backend: Flutter
+Backend Services: Firebase Authentication, Firebase Cloud Firestore
+Project Highlights
+This project highlights my expertise in cross-platform mobile app development, robust backend integration using Flutter, and delivering a seamless and secure user experience.
